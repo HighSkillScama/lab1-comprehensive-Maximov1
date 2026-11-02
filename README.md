@@ -46,7 +46,9 @@
 - **Branch Protection для `develop`:** включено требование Pull Request перед слиянием.
 - **`.github/CODEOWNERS`:** все файлы требуют аппрува `@ваш-никнейм`.
 
-*(Скриншот настроек Branch Protection вставьте здесь.)*
+
+*<img width="1011" height="733" alt="image" src="https://github.com/user-attachments/assets/c3504948-6ad3-4df6-a591-ae1dc6467edb" />*
+
 
 ## 4. Инструментальный контроль качества
 

@@ -44,7 +44,7 @@
 ### 3.2. Контроль доступа
 
 - **Branch Protection для `develop`:** включено требование Pull Request перед слиянием.
-- **`.github/CODEOWNERS`:** все файлы требуют аппрува `@ваш-никнейм`.
+- **`.github/CODEOWNERS`:** все файлы требуют аппрува `"@HighSkillScama`.
 
 
 *<img width="1011" height="733" alt="image" src="https://github.com/user-attachments/assets/c3504948-6ad3-4df6-a591-ae1dc6467edb" />*
@@ -59,7 +59,7 @@ Workflow: [`.github/workflows/qa.yml`](.github/workflows/qa.yml).
 
 ### 4.2. Работа Quality Gate
 
-*(Скриншот PR с красным статусом flake8.)*  
+*<img width="1903" height="746" alt="image" src="https://github.com/user-attachments/assets/29bd4a82-2c9f-4beb-abfe-e991e0e6768b" />*
 **Текст ошибки (пример):**  
 `src/discount.py:1:1: F401 'os' imported but unused`  
 `src/discount.py:4:80: E501 line too long (95 > 79 characters)`
